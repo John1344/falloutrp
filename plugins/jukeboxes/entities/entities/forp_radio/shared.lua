@@ -1,0 +1,9 @@
+ENT.Base = "base_entity"
+ENT.Type = "anim"
+ENT.PrintName = "Radio"
+ENT.Author = "Cat.jpeg"
+ENT.Spawnable = true
+ENT.AdminOnly = true
+ENT.RenderGroup = RENDERGROUP_OPAQUE
+ENT.Category = "Fallout Roleplay"
+ENT.forp_IsRadio = true
