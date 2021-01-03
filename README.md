@@ -5,7 +5,7 @@ This schema is not complete and you may experience bugs as it was in progress an
 The schema runs on NutScript 1.1 (https://github.com/rebel1324/NutScript/tree/1.1)
 
 The team was :
-https://github.com/vingard
+https://github.com/vingard \n
 https://github.com/jopnine
 https://github.com/Otunga
 https://github.com/John1344
