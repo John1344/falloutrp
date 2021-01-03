@@ -1,0 +1,6 @@
+"falloutrp"
+{
+	"base" 		"nutscript"
+	"title" 		"Fallout: New Vegas"
+	"author"		"github.com/John1344, vin, Trip, Otunga"
+}
